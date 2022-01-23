@@ -36,5 +36,6 @@ avant la séance. Elle n’a pas de chambre à air de rechange et sa
 tentative de boucher la vieille est ratée.
 
 > Mauricette : qu’est-ce que vous faites maintenant ?
+> Josette : on prend le RER ?
 
 
