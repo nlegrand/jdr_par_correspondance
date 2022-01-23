@@ -25,4 +25,5 @@ arrive, Kevina part chercher son vélo, c’est là qu’elle se rend compte
 que son pneu est à plat.
 
 > Mauricette : que fait Kevina ?
+> Josette : ben elle regonfle.
 
