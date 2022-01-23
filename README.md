@@ -27,5 +27,6 @@ que son pneu est à plat.
 > Mauricette : que fait Kevina ?
 > Josette : ben elle regonfle.
 > Mauricette : Kevina se rend compte que c’est crevé.
+> Josette : ha, ben j’essaie de réparer.
 
 
