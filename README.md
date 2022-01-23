@@ -29,5 +29,5 @@ que son pneu est à plat.
 > Mauricette : Kevina se rend compte que c’est crevé.
 > Josette : ha, ben j’essaie de réparer.
 > Mauricette : fait ton jet.
-
+> Josette : Alors... 12 en dextérité + réparation. 15, c’est raté.
 
