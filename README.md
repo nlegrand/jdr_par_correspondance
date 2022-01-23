@@ -17,5 +17,9 @@ rendez-vous chez Bryan-Dylan pour aller au cinéma à Alésia.
 > Mauricette : comment vous êtes-vous organisés ?
 > Jean-Claude : on y va comment ?
 > Josette : en vélo ? Comme ça on fait du sport !
+> Jean-Claude : ok ça roule.
+
+Bryan-Dylan prend son vieux vélo Decathlon à moitier déglingué et file
+chez Kevina, une heure avant la séance environ.
 
 
