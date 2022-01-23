@@ -43,5 +43,10 @@ on arrive fissa à la gare de Bourg-la-Reine et on a une chance
 d’arriver à l’heure !
 Kevina : Ok, bonne idée !
 
+> Mauricette : bon, Jean-Claude, fais moi un jet de dex + véhicule
+> pour Bryan-Dylan, difficulté 2, parce que tu as Josette sur le porte
+> bagage et toi Josette, fais moi un jet de dex + acrobatie pour ne
+> pas te vautrer.
+
 
 
