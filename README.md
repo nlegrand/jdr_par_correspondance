@@ -20,6 +20,9 @@ rendez-vous chez Bryan-Dylan pour aller au cinéma à Alésia.
 > Jean-Claude : ok ça roule.
 
 Bryan-Dylan prend son vieux vélo Decathlon à moitier déglingué et file
-chez Kevina, une heure avant la séance environ.
+chez Kevina, une heure avant la séance environ. Lorsque Bryan-Dylan
+arrive, Kevina part chercher son vélo, c’est là qu’elle se rend compte
+que son pneu est à plat.
 
+> Mauricette : que fait Kevina ?
 
