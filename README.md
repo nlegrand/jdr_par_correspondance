@@ -19,7 +19,7 @@ rendez-vous chez Bryan-Dylan pour aller au cinéma à Alésia.
 > Josette : en vélo ? Comme ça on fait du sport !
 > Jean-Claude : ok ça roule.
 
-Bryan-Dylan prend son vieux vélo Decathlon à moitier déglingué et file
+Bryan-Dylan prend son vieux vélo Decathlon à moitié déglingué et file
 chez Kevina, une heure avant la séance environ. Lorsque Bryan-Dylan
 arrive, Kevina part chercher son vélo, c’est là qu’elle se rend compte
 que son pneu est à plat.
@@ -48,5 +48,11 @@ Kevina : Ok, bonne idée !
 > bagage et toi Josette, fais moi un jet de dex + acrobatie pour ne
 > pas te vautrer.
 
-
+    Et ainsi de suite. L’idée est d’utiliser directement l’éditeur de
+    Github pour les gens qui ne sont pas à l’aise avec les outils en ligne
+    de commande, en cliquant sur le crayon, on peut modifier le
+    texte. Vous pouvez suivre l’historique des modifications, comme un
+    wiki. Si vous regardez l’historique de ce texte, vous verrez une
+    simulation de commit d’une vraie partie.
+    
 
