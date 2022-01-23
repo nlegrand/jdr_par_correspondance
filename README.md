@@ -38,4 +38,8 @@ tentative de boucher la vieille est ratée.
 > Mauricette : qu’est-ce que vous faites maintenant ?
 > Josette : on prend le RER ?
 
+Bryan-Dylan : Kevina ! T’as qu’à monter sur le porte-bagage, comme ça
+on arrive fissa à la gare de Bourg-la-Reine et on a une chance
+d’arriver à l’heure !
+
 
