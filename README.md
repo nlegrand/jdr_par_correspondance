@@ -16,5 +16,6 @@ rendez-vous chez Bryan-Dylan pour aller au cinéma à Alésia.
 
 > Mauricette : comment vous êtes-vous organisés ?
 > Jean-Claude : on y va comment ?
+> Josette : en vélo ? Comme ça on fait du sport !
 
 
