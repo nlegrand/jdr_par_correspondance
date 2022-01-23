@@ -31,3 +31,10 @@ que son pneu est à plat.
 > Mauricette : fait ton jet.
 > Josette : Alors... 12 en dextérité + réparation. 15, c’est raté.
 
+Kevina se rend compte qu’elle n’aura pas le temps de réparer son vélo
+avant la séance. Elle n’a pas de chambre à air de rechange et sa
+tentative de boucher la vieille est ratée.
+
+> Mauricette : qu’est-ce que vous faites maintenant ?
+
+
