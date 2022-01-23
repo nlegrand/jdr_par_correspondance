@@ -15,4 +15,6 @@ C’est vendredi matin à l’Haÿ-les-Roses, et Bryan-Dylan et Kevina ont
 rendez-vous chez Bryan-Dylan pour aller au cinéma à Alésia.
 
 > Mauricette : comment vous êtes-vous organisés ?
+> Jean-Claude : on y va comment ?
+
 
